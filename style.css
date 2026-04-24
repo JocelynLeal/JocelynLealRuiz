@@ -17,7 +17,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("banner4.jpg") top right no-repeat;
+  background: #ffffff url("banner3.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
